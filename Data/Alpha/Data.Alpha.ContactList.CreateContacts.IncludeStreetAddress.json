@@ -1,0 +1,46 @@
+{
+	"Test Set - Jerry": {
+		"Auth": {
+			"Username": "JerrySeinfeld@Testing.com",
+			"Password": "HelloNewman"
+		},
+		"Inputs": {
+			"First name": "Jerry",
+			"Last name": "Seinfeld",
+			"Street address": "129 West 81st Street, Apartment 5A"
+		}
+	},
+	"Test Set - Kramer": {
+		"Auth": {
+			"Username": "JerrySeinfeld@Testing.com",
+			"Password": "HelloNewman"
+		},
+		"Inputs": {
+			"First name": "Cosmo",
+			"Last name": "Kramer",
+			"Street address": "129 West 81st Street, Apartment 5B"
+		}
+	},
+	"Test Set - George": {
+		"Auth": {
+			"Username": "JerrySeinfeld@Testing.com",
+			"Password": "HelloNewman"
+		},
+		"Inputs": {
+			"First name": "George",
+			"Last name": "Castanza",
+			"Street address": "1344 Queens Boulevard"
+		}
+	},
+	"Test Set - Elaine": {
+		"Auth": {
+			"Username": "JerrySeinfeld@Testing.com",
+			"Password": "HelloNewman"
+		},
+		"Inputs": {
+			"First name": "Elaine",
+			"Last name": "Benes",
+			"Street address": "78 West 86th St, apt 3E"
+		}
+	}
+}
